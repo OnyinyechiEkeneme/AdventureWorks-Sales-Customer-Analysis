@@ -14,13 +14,13 @@ The analysis was performed using the AdventureWorks dataset and focuses on Sales
 
 ### Executive Dashboard
 
-[<img width="614" height="329" alt="executive-dashboard" src="https://github.com/user-attachments/assets/af56712b-225d-410e-8d73-70959302532d" />
-]
+<img width="614" height="329" alt="executive-dashboard" src="https://github.com/user-attachments/assets/af56712b-225d-410e-8d73-70959302532d" />
+
 
 ### Customer Revenue Dashboard
 
-[<img width="622" height="328" alt="customer-analysis" src="https://github.com/user-attachments/assets/ee5bbf83-7af7-4706-96da-67c84eb209d3" />
-]
+<img width="622" height="328" alt="customer-analysis" src="https://github.com/user-attachments/assets/ee5bbf83-7af7-4706-96da-67c84eb209d3" />
+
 
 
 
