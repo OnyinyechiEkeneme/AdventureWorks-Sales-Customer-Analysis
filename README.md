@@ -84,34 +84,6 @@ A star schema data model was implemented to improve performance and enable effic
 
 Relationships were configured using one-to-many relationships between dimensions and the sales fact table.
 
----
-
-## Methodology
-
-The following calculations and metrics were developed using DAX:
-
-### Sales Metrics
-
-* Total Revenue
-* Total Orders
-* Total Quantity Sold
-* Average Order Value (AOV)
-* Revenue Growth %
-* Revenue YTD
-
-### Customer Metrics
-
-* Repeat Customers
-* Customer Retention Rate
-* Customer Revenue
-* Customer Revenue Contribution
-* Pareto Analysis (80/20 Rule)
-
-### Product Metrics
-
-* Revenue by Product
-* Revenue by Category
-* Top-Selling Products
 
 ---
 
@@ -153,29 +125,29 @@ Examines:
 
 ---
 
-##Business Recommendations
+## Business Recommendations
 
-###Customer Retention
+### Customer Retention
 
 * Maintain and strengthen loyalty programs to preserve the strong 86.83% retention rate.
 * Implement personalized marketing campaigns targeting high-value returning customers, who account for the majority of revenue.
 
-Revenue Diversification
+### Revenue Diversification
 
 * Reduce dependence on the U.S. market by increasing sales and marketing investments in Canada and Australia.
 * Explore expansion into additional geographic markets to mitigate regional revenue concentration risk.
 
-###Product Strategy
+### Product Strategy
 
 * Increase inventory allocation and marketing support for top-performing Mountain-200 products.
 * Analyze low-performing products for potential discontinuation or repositioning.
 
-###Sales Channel Optimization
+### Sales Channel Optimization
 
 * Expand digital sales initiatives to increase online revenue contribution beyond the current 27% share.
 * Improve customer experience within online channels through personalized recommendations and targeted promotions.
 
-###Customer Segment Growth
+### Customer Segment Growth
 
 * Continue nurturing wholesale relationships since they contribute over 73% of total revenue.
 * Develop targeted campaigns to increase retail customer lifetime value and average order size.
