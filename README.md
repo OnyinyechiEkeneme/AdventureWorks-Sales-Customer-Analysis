@@ -153,28 +153,32 @@ Examines:
 
 ---
 
-## Recommendations
+##Business Recommendations
 
-### 1. Strengthen Customer Retention
+###Customer Retention
 
-Develop loyalty and retention programs targeted at high-value customers to increase customer lifetime value.
+* Maintain and strengthen loyalty programs to preserve the strong 86.83% retention rate.
+* Implement personalized marketing campaigns targeting high-value returning customers, who account for the majority of revenue.
 
-### 2. Increase Cross-Selling Opportunities
+Revenue Diversification
 
-Bundle accessories with bicycle purchases to improve average order value and revenue per customer.
+* Reduce dependence on the U.S. market by increasing sales and marketing investments in Canada and Australia.
+* Explore expansion into additional geographic markets to mitigate regional revenue concentration risk.
 
-### 3. Expand Digital Sales Initiatives
+###Product Strategy
 
-Invest in digital marketing and online sales channels to capitalize on higher online customer spending behavior.
+* Increase inventory allocation and marketing support for top-performing Mountain-200 products.
+* Analyze low-performing products for potential discontinuation or repositioning.
 
-### 4. Optimize Inventory Planning
+###Sales Channel Optimization
 
-Maintain sufficient inventory levels for top-performing products to prevent stockouts and lost sales opportunities.
+* Expand digital sales initiatives to increase online revenue contribution beyond the current 27% share.
+* Improve customer experience within online channels through personalized recommendations and targeted promotions.
 
-### 5. Target High-Growth Territories
+###Customer Segment Growth
 
-Allocate marketing resources toward territories showing strong growth potential and customer demand.
-
+* Continue nurturing wholesale relationships since they contribute over 73% of total revenue.
+* Develop targeted campaigns to increase retail customer lifetime value and average order size.
 ---
 
 ## Tools Used
