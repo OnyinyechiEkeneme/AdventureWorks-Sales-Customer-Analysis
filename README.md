@@ -143,18 +143,13 @@ Examines:
 
 ## Key Insights
 
-### Sales Performance
-
-* Revenue is concentrated within a small group of high-performing products.
-* Certain territories consistently outperform others and contribute a significant share of total revenue.
-* Online sales generate higher average order values compared to traditional sales channels.
-
-
-### Customer Analysis
-
-* A small percentage of customers generate a large proportion of total revenue, confirming the Pareto principle.
-* Repeat customers contribute significantly more revenue than one-time buyers.
-* Wholesale customers generate higher overall revenue, while retail customers contribute higher transaction volume.
+* Analyzed sales performance across 31K orders, generating $109.85M in revenue from 20K customers and 275K units sold.
+* Developed an executive sales dashboard that identified the United States as the top-performing market, contributing $48.18M (64.08%) of total revenue.
+* Evaluated customer purchasing behavior and found an 86.83% retention rate, with approximately 17K returning customers driving repeat revenue growth.
+* Discovered that wholesale customers generated $80.49M (73.27%) of total revenue, significantly outperforming retail customers, who contributed $29.36M (26.73%).
+* Identified top-performing products, with the leading product generating $4.4M in revenue, supporting product prioritization and inventory planning.
+* Analyzed purchase frequency patterns across customer segments, revealing that retail customers accounted for 27,659 transactions (88%), while wholesale customers generated higher revenue per customer despite lower transaction volume.
+* Calculated an Average Order Value (AOV) of $3.49K, providing insight into customer spending behavior and revenue optimization opportunities.
 
 ---
 
