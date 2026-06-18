@@ -1,10 +1,8 @@
 # AdventureWorks Sales & Customer Revenue Analysis
 
-## Project Overview
+## Executive Summary
 
-This project analyzes AdventureWorks' sales performance and customer purchasing behavior using Power BI. The objective was to identify key revenue drivers, evaluate product performance, understand customer purchasing patterns, and uncover opportunities to improve customer retention and revenue growth.
-
-The analysis was performed using the AdventureWorks dataset and focuses on Sales Analytics, Product Performance, Repeat Customers, and Customer Revenue Analysis.
+AdventureWorks demonstrates strong financial performance with $109.85M revenue, supported by high customer retention (86.83%) and strong wholesale demand (73.27% of revenue). However, the business has opportunities to reduce dependency on major customers, diversify geographic revenue, and improve digital sales growth
 
 ---
 
